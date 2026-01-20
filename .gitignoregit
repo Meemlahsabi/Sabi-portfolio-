@@ -1,0 +1,1 @@
+storage/ rm -r --cached .config .npm .ssh storage
